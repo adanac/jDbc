@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jDbc.iml" filepath="$PROJECT_DIR$/jDbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jDbc-common/jDbc-common.iml" filepath="$PROJECT_DIR$/jDbc-common/jDbc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jDbc-intf/jDbc-intf.iml" filepath="$PROJECT_DIR$/jDbc-intf/jDbc-intf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jDbc-service/jDbc-service.iml" filepath="$PROJECT_DIR$/jDbc-service/jDbc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jDbc-web/jDbc-web.iml" filepath="$PROJECT_DIR$/jDbc-web/jDbc-web.iml" />
+    </modules>
+  </component>
+</project>
